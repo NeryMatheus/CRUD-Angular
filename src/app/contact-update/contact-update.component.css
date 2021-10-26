@@ -1,0 +1,17 @@
+mat-form-field{
+    width: 98%;
+}
+
+.btnHome{
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+}
+
+.form{
+    padding: 8px 16px 0 16px;
+}
+
+.action{
+    margin-left: 81%;
+}
